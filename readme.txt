@@ -1,1 +1,3 @@
-nueva frase cambnio algo desde el repositorio remoto github
+Enhorabuena eres un experto en git!!! 
+escribe algo a continuacion para demostrarlo:
+------ESCRIBE AQUI-----
